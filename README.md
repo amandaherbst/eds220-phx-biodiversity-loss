@@ -8,4 +8,4 @@ Microsoft Planetary Computer. *Biodiversity Intactness* [Dataset]. Available fro
 
 US Census Bureau, Geography Division (2022). *Arizona Census County Subdivision 2022 TIGER Shapefiles* [Data File]. Available from https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions. Accessed 6 December 2023
 
-*MPC STAC collection was accessed via URL. County shapefiles were downloaded and stored locally. Data was not pushed to this repository due to the size*
+*MPC STAC collection was accessed via URL. County shapefiles were downloaded and stored locally. Data was not pushed to this repository due to the size.*
