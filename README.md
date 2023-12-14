@@ -1,6 +1,6 @@
 # Biodiversity Intactness Index change in Phoenix subdivision
 
-A workflow to analyze changes in Biodiversity Intactness Index from 2017 to 2020 in the Phoenix subdivision. Final output is a visualization of these changes.
+A workflow to analyze changes in Biodiversity Intactness Index (BII) from 2017 to 2020 in the Phoenix subdivision. Final output is a visualization of these changes.
 
 ## Data Citations
 
